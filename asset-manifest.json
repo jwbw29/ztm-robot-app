@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ztm-robot-app/static/css/main.73b0c3d3.css",
+    "main.js": "/ztm-robot-app/static/js/main.5848a794.js",
+    "static/js/787.a97d10e4.chunk.js": "/ztm-robot-app/static/js/787.a97d10e4.chunk.js",
+    "static/media/SEGA.woff": "/ztm-robot-app/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/ztm-robot-app/index.html",
+    "main.73b0c3d3.css.map": "/ztm-robot-app/static/css/main.73b0c3d3.css.map",
+    "main.5848a794.js.map": "/ztm-robot-app/static/js/main.5848a794.js.map",
+    "787.a97d10e4.chunk.js.map": "/ztm-robot-app/static/js/787.a97d10e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73b0c3d3.css",
+    "static/js/main.5848a794.js"
+  ]
+}
